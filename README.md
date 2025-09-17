@@ -22,9 +22,10 @@ It focuses on two related topics:
 - Uses MCMC to estimate cosmological parameters (example: Ω_m, H0, etc.).
 - Shows a full Bayesian workflow: model, likelihood for observables, MCMC sampling, diagnostics, and posterior visualization.
 
-### 3. `data_selection.py` / `data_selection.ipynb`
+### 3. `GRO J1655 data selection and parameter comparison.ipynb`
 - Documents the data cleaning and selection pipeline used for the scaling-curve fits.
 - Includes detailed filters: NaN/inf removal, error handling, selection cuts, and final sample export.
+- Contains a comparison of fitted parameters between **GRO D05** and **R05**, providing additional context for the scaling method analysis.
 - This file ensures reproducibility and that only physically meaningful points enter the MCMC fits.
 
 ---
