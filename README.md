@@ -1,4 +1,4 @@
-# MCMC Fitting & Scaling Method (Astrophysics)
+# MCMC Fitting in Astrophysics
 
 This repository contains reproducible code and notebooks for MCMC-based parameter inference in astrophysics.  
 It focuses on two related topics:
